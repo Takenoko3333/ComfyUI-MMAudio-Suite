@@ -119,4 +119,4 @@ Nvidia bigvganv2 (used with 44k mode):
 
 ## Update
 
-2025-11-09 ComfyUI-MMAudioのバグを修正のプルリクエスト（pr52）を適用し、ピッチ調整機能を統合
+2025-11-09 ComfyUI-MMAudioのバグを修正するプルリクエスト（pr52）を適用し、ピッチ調整機能を統合
