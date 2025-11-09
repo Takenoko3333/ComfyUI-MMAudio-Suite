@@ -87,7 +87,7 @@ ComfyUI を再起動してください。
 python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\ComfyUI-MMAudio-Suite\requirements.txt
 ```
 
-## Models
+## モデル
 
 モデルは以下に配置します `ComfyUI/models/mmaudio`
 
@@ -117,6 +117,6 @@ Nvidia bigvganv2 (used with 44k mode):
 
 [https://huggingface.co/nvidia/bigvgan_v2_44khz_128band_512x](https://huggingface.co/nvidia/bigvgan_v2_44khz_128band_512x)
 
-## Update
+## 更新履歴
 
 2025-11-09 ComfyUI-MMAudioのバグを修正するプルリクエスト（pr52）を適用し、ピッチ調整機能を統合
