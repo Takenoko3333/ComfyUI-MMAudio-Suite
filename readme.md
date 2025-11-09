@@ -27,6 +27,7 @@ Please restart ComfyUI.
 
 Models are loaded from `ComfyUI/models/mmaudio`
 
+Download the fp16 safetensors model from the following link:
 Safetensors available here:
 
 [https://huggingface.co/Kijai/MMAudio_safetensors/tree/main](https://huggingface.co/Kijai/MMAudio_safetensors/tree/main)
@@ -71,7 +72,7 @@ python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\ComfyUI-MMAudio
 
 モデルは以下に配置します `ComfyUI/models/mmaudio`
 
-Safetensors は以下よりダウンロードしてください:
+Safetensorsは以下よりfp16をダウンロードしてください:
 
 [https://huggingface.co/Kijai/MMAudio_safetensors/tree/main](https://huggingface.co/Kijai/MMAudio_safetensors/tree/main)
 
