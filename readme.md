@@ -11,9 +11,9 @@ https://github.com/user-attachments/assets/9515c0f6-cc5d-4dfe-a642-f841a1a2dba5
 
 ## About this custom node
 
-This is a custom node that applies the pull request (pr52) fixing bugs in ComfyUI-MMAudio and adds pitch adjustment functionality.
-The pitch adjustment feature integrates [comfyui-audio-pitch](https://github.com/Takenoko3333/comfyui-audio-pitch).
-This makes MMAudio easier to implement and is expected to improve performance.
+This is a custom node that applies the pull request (pr52) fixing bugs in ComfyUI-MMAudio and adds pitch adjustment functionality.<br>
+The pitch adjustment feature integrates [comfyui-audio-pitch](https://github.com/Takenoko3333/comfyui-audio-pitch).<br>
+This makes MMAudio easier to implement and is expected to improve performance.<br>
 We plan to add features like Bass/Treble adjustment in the future.
 
 ## Installation
@@ -50,8 +50,8 @@ https://github.com/user-attachments/assets/9515c0f6-cc5d-4dfe-a642-f841a1a2dba5
 ## このカスタムノードについて
 
 ComfyUI-MMAudioのバグを修正のプルリクエスト（pr52）を適用し、ピッチ調整機能を加えたカスタムノードです。<br>
-ピッチ調整機能は[comfyui-audio-pitch](https://github.com/Takenoko3333/comfyui-audio-pitch)を統合しました。
-これによりMMAudioの導入がし易くなり、性能向上も期待できます。
+ピッチ調整機能は[comfyui-audio-pitch](https://github.com/Takenoko3333/comfyui-audio-pitch)を統合しました。<br>
+これによりMMAudioの導入がし易くなり、性能向上も期待できます。<br>
 今後、Bass/Treble調整等の機能を追加していく予定です。
 
 ## インストール
