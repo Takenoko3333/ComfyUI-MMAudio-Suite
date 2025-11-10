@@ -23,6 +23,11 @@ git clone https://github.com/Takenoko3333/ComfyUI-MMAudio-Suite.git
 ```
 Please restart ComfyUI.
 
+If dependency files are not installed in the portable version: Please run the following within the ComfyUI_windows_portable folder:
+```
+python_embeded\python.exe -m pip install -r ComfyUI\custom_nodes\ComfyUI-MMAudio-Suite\requirements.txt
+```
+
 ## Models
 
 Models are loaded from `ComfyUI/models/mmaudio`
