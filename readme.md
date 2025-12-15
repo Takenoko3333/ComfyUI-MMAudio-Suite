@@ -61,7 +61,8 @@ If it does not download automatically, please download it from the link below an
 
 ## Update
 
-2025-11-09 Applied pull request (pr52) to fix bugs in ComfyUI-MMAudio and integrated pitch adjustment functionality
+- 2025-12-15 Registered in the ComfyUI Registry
+- 2025-11-09 Applied pull request (pr52) to fix bugs in ComfyUI-MMAudio and integrated pitch adjustment functionality
 
 ---
 # 日本語
@@ -124,4 +125,5 @@ Nvidia bigvganv2 (used with 44k mode):
 
 ## 更新履歴
 
-2025-11-09 ComfyUI-MMAudioのバグを修正するプルリクエスト（pr52）を適用し、ピッチ調整機能を統合
+- 2025-12-15 ComfyUI Registryに登録
+- 2025-11-09 ComfyUI-MMAudioのバグを修正するプルリクエスト（pr52）を適用し、ピッチ調整機能を統合
