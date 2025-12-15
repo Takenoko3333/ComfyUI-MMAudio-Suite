@@ -12,7 +12,4 @@ Repository = "https://github.com/Takenoko3333/ComfyUI-MMAudio-Suite"
 [tool.comfy]
 PublisherId = "takenoko3333"
 DisplayName = "ComfyUI-MMAudio-Suite"
-
 Icon = ""
-
-
